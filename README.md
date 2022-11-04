@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Mohanraj S
 - 👀 I’m interested in Developing Web applications.
-- 🌱 I have learned MERN Stack and built some projects!!! 
+- 🌱 I have learned MERN Stack and built some Full-Stack projects!!! 
 - 💞️ I’m looking to collaborate on NodeJs-Backend Projects!!!
 - 📫 How to reach me. email: smohan1029@gmail.com
 
