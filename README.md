@@ -1,7 +1,7 @@
 - 👋 Hi, I’m Mohanraj S
 - 👀 I’m interested in developing web applications.
 - 🌱 I'm having a year of experience in the MERN stack web development.  
-- 💞️ I’m looking to collaborate on Full-Stack Projects. My portfolio: https://mohanrajs-portfolio-site.netlify.app/
+- 💞️ My portfolio: https://mohanrajs-portfolio-site.netlify.app/
 - 📫 How to reach me. email: smohan1029@gmail.com
 
 <!---
